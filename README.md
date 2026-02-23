@@ -1,6 +1,6 @@
-# 🌟  Adaptive LPU-Powered Learning System
+# 🌟  Adaptive AI Tutor LPU-Powered Learning System
 
-Adaptive is a high-throughput, personalized AI tutoring framework designed
+Adaptive AI tutor is a high-throughput, personalized AI tutoring framework designed
 to provide specialized instruction in technical domains such as
 **Python, Machine Learning, and Deep Learning**.
 
@@ -12,7 +12,7 @@ complexity, and feedback loops based on a real-time user profile.
 
 ## 🧠 System Architecture
 
-Adaptive is built as a **state-managed monolithic application**, carefully
+Adaptive AI tutor is built as a **state-managed monolithic application**, carefully
 separating conversational intelligence from the technical assessment
 module.
 
