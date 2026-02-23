@@ -1,6 +1,6 @@
-# 🌟 Lumina: Adaptive LPU-Powered Learning System
+# 🌟  Adaptive LPU-Powered Learning System
 
-Lumina is a high-throughput, personalized AI tutoring framework designed
+Adaptive is a high-throughput, personalized AI tutoring framework designed
 to provide specialized instruction in technical domains such as
 **Python, Machine Learning, and Deep Learning**.
 
@@ -12,7 +12,7 @@ complexity, and feedback loops based on a real-time user profile.
 
 ## 🧠 System Architecture
 
-Lumina is built as a **state-managed monolithic application**, carefully
+Adaptive is built as a **state-managed monolithic application**, carefully
 separating conversational intelligence from the technical assessment
 module.
 
